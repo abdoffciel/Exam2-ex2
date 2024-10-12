@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Learning JavaScript Data Structures and Algorithms",
+      "author": "Loiane Groner",
+      "likes": 0,
+      "image": "https://th.bing.com/th/id/OIP.dDGiVsie4KD6iOjyOZC2xwHaJa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 2,
+      "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+      "author": "Marijn Haverbeke",
+      "likes": 0,
+      "image": "https://th.bing.com/th/id/OIP.8kXKnKyf9BDukArQqEOPpwAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 3,
+      "title": "You Don’t Know JS: Scope & Closures",
+      "author": "Kyle Simpson",
+      "likes": 0,
+      "image": "https://th.bing.com/th/id/R.9646bfbf74983178d72237f6a4c944d8?rik=faYM%2br3KuaJg4w&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 4,
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "likes": 0,
+      "image": "https://addictbooks.com/wp-content/uploads/2023/01/1-6.jpg"
+    },
+    {
+      "id": 5,
+      "title": "JavaScript: The Definitive Guide",
+      "author": "David Flanagan",
+      "likes": 0,
+      "image": "https://th.bing.com/th/id/R.57bdfbd391f628307395fc40ca50d006?rik=za7IaUaLYE2PyA&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 6,
+      "title": "Head First JavaScript Programming",
+      "author": "Eric Freeman",
+      "likes": 0,
+      "image": "https://store.mises.org/GetImage.ashx?Path=~%2fAssets%2fProductImages%2fSS342.jpg&maintainAspectRatio=true&maxHeight=300&maxWidth=300"
+    },
+    {
+      "id": 7,
+      "title": "JavaScript Patterns",
+      "author": "Stoyan Stefanov",
+      "likes": 0,
+      "image": "https://th.bing.com/th/id/OIP.uvixM7sH2tZ2ln09hvhWrwAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 8,
+      "title": "The Road to React",
+      "author": "Robin Wieruch",
+      "likes": 0,
+      "image": "https://th.bing.com/th/id/OIP.eVf_nXqfO-XU297jiOKuHAAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 9,
+      "title": "Learning React: Functional Web Development with React and Redux",
+      "author": "Alex Banks & Eve Porcello",
+      "likes": 0,
+      "image": "https://th.bing.com/th/id/OIP.WpkUA1bEgZoKXZ_944Yg0wHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 10,
+      "title": "Pro React 16",
+      "author": "Adam Freeman",
+      "likes": 0,
+      "image": "https://www.daily-passions.com/wp-content/uploads/2020/03/Freeman.jpg"
+    }
+  ]
+}
